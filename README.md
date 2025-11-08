@@ -1,0 +1,14 @@
+(FOR ADMIN - LOGIN FROM THE SAME USER'S LOGIN PAGE) 
+ADMIN : username = admin
+        password = admin
+
+User's Login
+User: username = harry	
+      password = code0
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "busbooking" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+DATABASE FILE IS INSIDE "DATABASE" FOLDER
+
